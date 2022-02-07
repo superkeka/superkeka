@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @superkeka
-- 👀 I’m interested in Mobile and embedded systems
+- 👀 I’m interested in mobile and embedded systems
